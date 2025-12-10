@@ -40,10 +40,10 @@ The target audience is Brazilian drivers in the state of Rio Grande do Norte (an
 ## Screenshots
 | Input Data | AI Analysis |
 |:---:|:---:|
-| [img1](inputdata.png) | [img2](ai_analysis.png) |
+| ![img1](inputdata.png) | ![img2](ai_analysis.png) |
 
 ## License
 This project is licensed under the **CC BY 4.0** - Open Source.
 
 ---
-*Created by [Seu Nome] - 2025*
+*Created by Jasdson Chagas - 2025*
