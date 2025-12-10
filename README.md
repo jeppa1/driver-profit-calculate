@@ -9,7 +9,7 @@
 
 Powered by **Gemini 3 Pro**, this tool calculates the *true* net hourly wage of a driver and acts as a personalized financial advisor, offering actionable tips on cost-saving and investments (like LCA) based on their real profit margins.
 
-🔗 **[Live Demo App](SEU_LINK_DO_AI_STUDIO_AQUI)** 🎥 **[Video Demonstration](SEU_LINK_DO_YOUTUBE_AQUI)**
+🔗 **[Live Demo App](https://ai.studio/apps/drive/13L9DF0JhI_1xK2waDYhuFoFTVaEZNXj5)** 🎥 **[Video Demonstration](https://www.youtube.com/watch?v=Ga_pdu_5a2I)**
 
 ---
 
