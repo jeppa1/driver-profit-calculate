@@ -1,0 +1,5 @@
+{
+  "name": "Driver Profit",
+  "description": "A calculator for ride-share drivers to determine net profit and hourly wages, featuring AI-powered financial advice.",
+  "requestFramePermissions": []
+}
