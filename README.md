@@ -16,7 +16,7 @@ Powered by **Gemini 3 Pro**, this tool calculates the *true* net hourly wage of 
 ## The Problem
 In the Global South (specifically Brazil), the gig economy is a primary source of income for millions. However, low financial literacy regarding **OPEX (Operational Expenditure)** often leads drivers to overestimate their earnings.
 * **Gross Income:** Easy to see.
-* **Net Income:** Hard to calculate (involves fuel, R$0.20/km maintenance, taxes, etc.).
+* **Net Income:** Hard to calculate (involves fuel, R$0.50/km maintenance, taxes, etc.).
 
 ## The Solution
 We used **Google AI Studio's "Vibe Coding"** to build a reactive calculator that:
